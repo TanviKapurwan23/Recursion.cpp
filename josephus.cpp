@@ -21,3 +21,6 @@ int main()
                  josephus(n, k));
   return 0;
 }
+
+// Time Complexity: O(n)
+// Space Complexity: O(n) the space used in recursion call stack
